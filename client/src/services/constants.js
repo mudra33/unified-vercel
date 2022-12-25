@@ -1,4 +1,4 @@
-export const DB_URL = 'https://app-unified.herokuapp.com';
+export const DB_URL = 'https://unified-vercel.vercel.app';
 export const SIGNUP_URL = DB_URL + '/auth/signup';
 export const SIGNIN_URL = DB_URL + '/auth/signin';
 export const VERIFY_TOKEN = DB_URL + '/auth/verifyToken';
